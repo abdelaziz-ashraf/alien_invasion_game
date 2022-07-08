@@ -9,3 +9,8 @@ destroys the aliens. If the player shoots all the aliens, a new fleet
 appears that moves faster than the previous fleet. If any alien hits 
 the player’s ship or reaches the bottom of the screen, the player 
 loses a ship. If the player loses three ships, the game ends
+
+                            **This paragraph from Python Crash Course.**
+                            
+                            
+>Using this project i learnt how to use PyGame and structure my project, and how to write good and clean code.
